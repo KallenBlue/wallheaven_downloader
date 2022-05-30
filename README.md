@@ -20,8 +20,6 @@ wallheaven的cookie有效期蛮长的，所以就直接手动加了
 #### 3.需要用到的库
 
 ```python
-import math
-import requests
 import re
 import aiohttp
 import asyncio
